@@ -68,7 +68,8 @@ class Solution:
                 if nums[left] == 0:
                     zeros -= 1
                 left += 1
-
             maxi = max(maxi, right - left + 1)
 
         return maxi
+
+# There are three apporach 
