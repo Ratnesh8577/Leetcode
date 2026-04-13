@@ -19,3 +19,4 @@ class Solution:
         
         depth(root)
         return self.diameter
+        # good question
