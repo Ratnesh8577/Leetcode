@@ -12,3 +12,4 @@ class Solution:
                 row += 1
 
         return count
+        # Count Negative number
