@@ -14,6 +14,7 @@ class Solution:
         return (high - low) // 2 + (1 if low % 2 != 0 or high % 2 != 0 else 0)
 
 """
+# Second Method
 
 class Solution:
     def countOdds(self, low: int, high: int) -> int:
