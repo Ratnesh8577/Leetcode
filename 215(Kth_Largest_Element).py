@@ -16,5 +16,6 @@ class Solution:
         
         #  heap is the kth largest element
         return min_heap[0]
+        # Simple 
 
         
