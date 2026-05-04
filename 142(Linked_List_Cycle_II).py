@@ -5,7 +5,7 @@
 #         self.next = None
 
 
-# Brute Solution 
+# Brute
 """
 class Solution(object):
     def detectCycle(self, head):
