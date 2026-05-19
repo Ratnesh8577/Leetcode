@@ -6,5 +6,5 @@ class Solution:
                 return True
             list1.add(num)
         return False
-        # simple
+        
         
