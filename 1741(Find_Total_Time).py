@@ -8,6 +8,6 @@ def total_time(employees: pd.DataFrame) -> pd.DataFrame:
     
     # Step 3: Rename columns to match expected output
     result.rename(columns={'event_day': 'day', 'time_spent': 'total_time'}, inplace=True)
-    # print
+
     return result
     
