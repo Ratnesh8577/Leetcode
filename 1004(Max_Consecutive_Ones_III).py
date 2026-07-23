@@ -17,7 +17,7 @@ class Solution:
     def longestOnes(self, nums: List[int], k: int) -> int: 
         maxi=0
         left=0
-# code
+# 
         right=0
         zeros=0
         n= len(nums)
